@@ -1,0 +1,69 @@
+
+@media (max-width: 576px) {
+.banner .logo-img {
+    height: 30%;
+    margin-top: 30px;
+}
+.nav {
+    display: block;
+}
+.nav-link {
+    padding: 5px 19px;
+}
+.banner h1 {
+    font-size: 35px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 17px;
+}
+.divider-img {
+    height: 35px;
+}
+.cook .dish {
+    margin-top: 40px;
+    /* margin: auto; */
+    /* padding: 0px 9px; */
+    width: 109%;
+}
+.about .about-heroarea {
+    width: 80%;
+    height: 80%;
+}
+.about .about-image {
+    height: 13%;
+}
+.menu .menu-item {
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.menu h1 {
+    font-size: 25px;
+}
+.menu h4 {
+    font-size: 16px;
+}
+.menu .menu-text {
+    font-size: 13px;
+}
+.review-heroarea {
+    width: 99%;
+    padding: 68px 0px;
+    margin-top: 4%;
+    height: 81%;
+}
+.review p {
+    font-size: 15px;
+}
+
+
+}
+
+
+
+@media (max-width: 768px) { ... }
+
+
+@media (max-width: 992px) { ... }
+
+
+@media (max-width: 1120px) { ... }
